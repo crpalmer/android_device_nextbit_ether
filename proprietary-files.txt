@@ -234,3 +234,4 @@ etc/thermal-engine-8992.conf
 # TP firmware
 etc/firmware/TP_Firmware_nbq_ebbg.img
 etc/firmware/TP_Firmware_nbq_ebbg_V29.img
+etc/firmware/TP_Firmware_nbq_ebbg_V35.img
