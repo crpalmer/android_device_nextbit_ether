@@ -200,14 +200,18 @@ etc/nxp/settings/os/playback/4/speaker.speaker
 vendor/firmware/libpn547_fw.so
 
 # Radio (factory version)
-bin/rild|ffea291cec3fe6a6393f8e6949a1219426547646
+bin/rild
 -lib/libril.so
 -lib64/libril.so
 -vendor/lib/libqmiservices.so
 -vendor/lib64/libqmiservices.so
+
 vendor/lib64/libril-qc-qmi-1.so
 vendor/lib64/libril-qc-radioconfig.so
 vendor/lib64/libril-qcril-hook-oem.so
+vendor/lib64/libril-qc-ltedirectdisc.so
+vendor/lib64/librilqmiservices.so
+vendor/lib64/libsettings.so
 
 # Sensors
 etc/sensors/hals.conf
